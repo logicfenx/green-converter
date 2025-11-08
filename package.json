@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/green-converter",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a green-converter",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/green-converter.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://coscouture.com/es/green-converter/"
+    },
+    "homepage": "https://coscouture.com/es/green-converter/"
+}
